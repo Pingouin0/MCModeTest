@@ -8,9 +8,9 @@ import net.minecraft.util.registry.Registry;
 import net.yakoro.yakoromod.YakoroMod;
 
 public class ModItem {
-    public static final Item Raw_Bornite = registerItem("Raw_Bornite",
+    public static final Item RAW_BORNITE = registerItem("raw_bornite",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
-    public static final Item Bornite = registerItem("Bornite",
+    public static final Item BORNITE = registerItem("bornite",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
 
