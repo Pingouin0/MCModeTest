@@ -1,4 +1,10 @@
    {
       "item.yakoromod.raw_bornite": "Raw Bornite",
-      "item.yakoromod.bornite": "Bornite"
+      "item.yakoromod.bornite": "Bornite",
+
+     "block.yakoromod.bornite_block": "Block of Bornite",
+     "block.yakoromod.bornite_ore": "Bornite Ore",
+     "block.yakoromod.deepslate_bornite_ore": "Deepslate Bornite Ore",
+
+     "itemGroup.yakoromod.bornite": "PinPinMod"
    }
