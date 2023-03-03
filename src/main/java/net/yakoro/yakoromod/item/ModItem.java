@@ -16,10 +16,10 @@ public class ModItem {
 
 
     private static Item registerItem(String name, Item item) {
-        return Registry.register(Registry.ITEM,new Identifier(YakoroMod.MOD_ID,name), item);
+        return Registry.register(Registry.ITEM, new Identifier(YakoroMod.MOD_ID, name), item);
     }
 
     public static void registerModItem() {
-        YakoroMod.LOGGER.debug("register Mod Item for "+ YakoroMod.MOD_ID);
+        YakoroMod.LOGGER.debug("register Mod Item for " + YakoroMod.MOD_ID);
     }
 }
