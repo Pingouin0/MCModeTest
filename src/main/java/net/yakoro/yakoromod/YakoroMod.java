@@ -1,9 +1,7 @@
 package net.yakoro.yakoromod;
 
 import net.fabricmc.api.ModInitializer;
-import net.yakoro.yakoromod.block.ModBlocks;
 import net.yakoro.yakoromod.item.ModItem;
-import net.yakoro.yakoromod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 public class YakoroMod implements ModInitializer {
