@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yakoromod:bornite_block"
+    }
+  ],
+  "result": {
+    "item": "yakoromod:bornite",
+    "count": 9
+  }
+}

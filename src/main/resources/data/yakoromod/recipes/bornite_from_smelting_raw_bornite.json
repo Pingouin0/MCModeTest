@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1,
+  "group": "bornite",
+  "ingredient": {
+    "item": "yakoromod:raw_bornite"
+  },
+  "result": "yakoromod:bornite"
+}
